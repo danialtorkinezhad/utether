@@ -33,7 +33,7 @@ const Page: PageEl = (props, state, refresh, getProps) => {
 
 
         <div style={{
-          width: "100%", height: 48, backgroundColor: "#577D7C", borderRadius: 10,
+          width: "100%", height: 48, backgroundColor: "#577D7C", borderRadius: 9,
           textAlign: "center"
         }}>
           <br-x />
